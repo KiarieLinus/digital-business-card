@@ -1,5 +1,4 @@
 import profile from '../assets/profile.png';
-import mail from '../assets/Mail.svg';
 
 export default function Info() {
     return (
