@@ -4,4 +4,4 @@ The project was made following the provided [figma design.](https://www.figma.co
 
 # Final Result
 
-![react1](https://user-images.githubusercontent.com/40097879/221637833-fbce4c27-8ea8-4115-9cb1-9359e2cfe5b8.png)
+The final result of the static site is currently deployed on [netlify.](https://tranquil-starlight-8fe879.netlify.app/)
