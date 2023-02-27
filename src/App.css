@@ -58,17 +58,6 @@
     color: #F5F5F5;
 }
 
-.mail::before {
-    background: url('assets/Mail.svg') no-repeat scroll center center;
-    content: "";
-    display: inline-block;
-    color: #374151;
-    height: 16px;
-    margin-right: 8px;
-    vertical-align: -15%;
-    width: 16px;
-}
-
 .info>table {
     margin: 0 35px 35px 35px;
 }
@@ -87,6 +76,16 @@
     color: #374151;
     text-align: center;
     text-decoration: none;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin: 0 35px 35px 35px;
+    padding:9px;
+    border-radius: 6px;
+}
+
+.mail>img{
+    margin-right: 8px;
 }
 
 .about>h2,
@@ -107,4 +106,12 @@
     /* or 15px */
     margin: 0;
     color: #DCDCDC;
+}
+
+footer{
+    background-color: #161619;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 30px;
+    border-radius:  0 0 10px 10px;
 }
